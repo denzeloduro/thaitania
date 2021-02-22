@@ -1,5 +1,5 @@
 .body {
-	font: 14px Lato, Avenir, Source Sans Pro, Helvetica, sans-serif;
+	font: 1.6rem Lato, Avenir, Source Sans Pro, Helvetica, sans-serif;
 	line-height: 1.6em;
 	
 }
@@ -45,7 +45,7 @@ a:hover {
 }
 
 .h4{
-	font: bold 1rem Lato, Avenir, Source Sans Pro, Helvetica, sans-serif;
+	font: bold 1.6rem Lato, Avenir, Source Sans Pro, Helvetica, sans-serif;
 	line-height: 1.6em;
 
 }
