@@ -1,0 +1,158 @@
+.body {
+	font: 14px Lato, Avenir, Source Sans Pro, Helvetica, sans-serif;
+	line-height: 1.6em;
+	
+}
+
+.body-container{
+	width: 60%;
+	margin: auto;
+}
+
+a{
+	text-decoration: none;
+	color: #000000;
+}
+/*
+a:hover {
+	color: #333333;
+	text-decoration: underline;
+
+}
+*/
+
+
+.h2{
+	text-align: center;
+	color:#96a07c;
+	font: bold 36px Lato, Avenir, Source Sans Pro, Helvetica, sans-serif;
+	width: 80%
+	margin: auto;
+	padding-top: 50px;
+
+
+}
+
+.h3{
+	font: 24px Lato, Avenir, Source Sans Pro, Helvetica, sans-serif;
+	color: #333333;
+	line-height: 2em;
+	width: 80%;
+	margin: auto; 
+	text-align: center;
+	padding-top: 20px
+
+}
+
+.h4{
+	font: bold 1rem Lato, Avenir, Source Sans Pro, Helvetica, sans-serif;
+	line-height: 1.6em;
+
+}
+
+/*
+.block-navbar{
+	float: left;
+	width: 33.3%;
+	padding-bottom: 10px;
+	box-sizing: border-box;
+	background-color: #ffffff;
+
+}
+*/
+
+
+.navbar {
+  overflow: hidden;
+  background-color: #ffffff;
+  position: fixed; 
+  top: 0; /* Position the navbar at the top of the page */
+  width: 100%; /* Full width */
+  z-index: 9999;
+ }
+
+.navbar a {
+  float: left;
+  display: block;
+  color: #000000;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+
+  }
+
+.navbar a:hover {
+	color: #333333;
+	text-decoration: underline;
+
+}
+
+
+.header-image{
+	width:100%;
+	height: 500px;
+	position:relative;
+	background-image: url('images/small-abhishek-sanwa.jpg');
+	background-repeat: no-repeat;
+	margin-top: 50px;
+}
+
+.header-image h1{
+	position:absolute;
+	color: #ffffff;
+	font: 72px Abril Fatface, Merriweather, didot, serif;
+	top: 40%;
+ 	left: 50%;
+  	transform: translate(-50%, -50%);
+  	text-shadow: 1px 1px #000000;
+
+}
+
+.my-form{
+	padding:20px;
+
+}
+
+
+.my-form.form-group{
+	padding-bottom: 20px
+}
+
+.my-form label{
+	display:block;
+	font: bold 18px Lato, Avenir, Source Sans Pro, Helvetica, sans-serif;
+;
+}
+
+.my-form input[type="text"], .my-form textarea{
+	padding: 10px;
+	width:100%;
+	margin: auto;
+
+}
+
+.button{
+	background-color: #869069;
+	color: #ffffff; 
+	padding: 5px 25px;
+	font: 14px Lato, Avenir, Source Sans Pro, Helvetica, sans-serif;
+	border-radius: 3px;
+
+}
+
+.button:hover {
+	background-color: #5f674b;
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
